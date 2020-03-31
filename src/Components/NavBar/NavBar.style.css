@@ -1,0 +1,17 @@
+nav .brand-logo.right {
+    right: 1.5rem;
+}
+
+nav ul a {
+    color: #381352;
+    font-weight: light;
+}
+
+nav .brand-logo {
+    color: #381352;
+    font-weight: lighter;
+}
+
+nav ul a:hover {
+    border-bottom:solid 1px #381352;
+}

@@ -1,0 +1,14 @@
+.page-footer {
+    background-color:#d0d0d0;
+    border-top: solid 2px #000;
+    color: black;
+}
+
+.page-footer .footer-copyright {
+    background-color:#e6e6e6;
+    font-weight: bold;
+}
+.socail-icon li {
+    display: inline-block;
+    padding-right: 20px;
+}

@@ -1,0 +1,22 @@
+
+.carousel .slide .legend {
+    border-radius: 0px;
+    color: black;
+    text-align: left;
+    opacity: .75;
+    transition: opacity .5s ease-in-out;
+}
+.carousel .control-dots .dot {
+    border-radius: 0%;
+    width: 20px;
+    height: 4px;
+}
+.carousel .thumb.selected {
+    border: 1px solid #49007a;
+    padding: 5px;
+}
+.carousel .thumb {
+    width: 200px;
+    height: 200px;
+}
+

@@ -1,0 +1,18 @@
+/* CSS override   */
+h1, h2, h3  {
+  font-weight: lighter;
+}
+
+p {
+  font-weight: lighter;
+  font-size: large;
+}
+
+.btn-large {
+  border:solid 1px #000;
+  background-color: white !important;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  color: #000;
+}
